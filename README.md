@@ -1,0 +1,34 @@
+# Programming Using C++
+
+## Overview
+This repository contains a complete collection of C++ programming lab assignments completed as part of my semester coursework. The solutions cover fundamental to intermediate concepts of C++ programming.
+
+## Topics Covered
+- Basic syntax and structure of C++
+- Control statements (if-else, switch)
+- Loops (for, while, do-while)
+- Functions and modular programming
+- Arrays (1D and 2D)
+- Basic problem-solving techniques
+- Functions
+- Structure
+- File handling
+- Pointers
+- Operators
+- Variables and Data types
+
+## Purpose
+The purpose of this repository is to demonstrate my understanding of C++ programming fundamentals through practical lab work and assignments.
+
+## Technologies Used
+- C++
+- C++ compiler (Dev-C++)
+
+## Learning Outcomes
+- Strong understanding of C++ fundamentals
+- Improved logical thinking and problem-solving skills
+- Experience in writing structured and efficient code
+- Practical implementation of programming concepts
+
+## Author
+Muhammad Taha
